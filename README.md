@@ -24,7 +24,7 @@ Las tecnologías que utilicé, son:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 ### Objetivo del proyecto
-Aprender a crear una página web enfocada en algún tema de interés en específico.
+Aprender a crear una flexbox con audio que se pueda controlar o pausar.
 
 ### Link a demo
 En el siguiente link puedes ver mi proyecto terminado:[Flexbox](https://flexbox-azure-theta.vercel.app/)

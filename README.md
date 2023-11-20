@@ -13,11 +13,9 @@ HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los d
 En este proyecto me enfoqué en construir una Flexbox con audio relajante. 
 Contiene las siguientes secciones:
 
-- **Header:** Sección que involucra la foto de mi perfil, iconos y un menú con enlaces externos.
+- **Header:** Sección que involucra la conexión con el estilos y el título del proyecto.
 
-- **Main:** Sección del contenedor para os elementos centrales de la página: logo, barra de búsqueda, íconos y botones.
-
-- **Footer:** Sección que incluye enlaces externos al final de la página.
+- **Main:** Sección del botón y audio de música relajante.
 
 Las tecnologías que utilicé, son: 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
